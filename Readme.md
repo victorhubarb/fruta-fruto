@@ -5,11 +5,11 @@ Our recipes help you to enjoy food better, save money, gain time and practicalit
 
 ## Project Description
 
-Website for recipes that are both healthy and cheap and delicious. Project executed for one of the Bootstrap courses, where it was executed containing the navigation areas on the page, along with a carousel below, followed by the main content that are the recipes, the ''about us'' part and also a brief footer, all executed using the Bootstrap framework.
+Website for recipes that are both healthy and cheap and delicious. Project executed for one of the Bootstrap courses, where it was executed containing the navigation areas on the page, along with a carousel below, followed by the main content that are the recipes, the ''about us'' part and also a brief footer, last but not least a modal was created in the contact area in the navigation menu, with a contact form. All executed using the Bootstrap framework.
 
 ## Demo
 
-
+https://fruta-fruto-4lxsymr6m-victorhubarb.vercel.app/
 
 ## Project Features
 
@@ -33,7 +33,7 @@ Website for recipes that are both healthy and cheap and delicious. Project execu
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/victorhubarb/fruta-fruto
 ```
 
 Install Bootstrap
